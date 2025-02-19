@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV files
-files = ["data/question_tags.csv", "data/questions.csv"]  # Replace with actual file names
+files = ["../question_tags.csv", "../questions.csv"]  # Replace with actual file names
 count = 0
 
 for file in files:
